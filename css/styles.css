@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#lisa-card{
+  background-image: url("https://media-exp2.licdn.com/dms/image/C5603AQHdmeVNiUcj7g/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=F5B-1NCeWpqdYafbZPLVSxDVt4t7PF4xvPhJp7r5kGo");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
